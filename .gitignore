@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+data/vectorstore/
+data/score_log.json
+data/wrong_answers.json
+data/discover_canada.pdf
+.claude/
+*.png
+*.rtf
+nul
+github_push2026.txt
+backend_trail.txt
+CLAUDE_quiz_buddy.md
